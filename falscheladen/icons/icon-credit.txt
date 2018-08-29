@@ -1,0 +1,2 @@
+from https://de.wikipedia.org/wiki/Datei:Mandelbrot-set_Ausschnitt19.png
+licensed under public domain by Steffen Rehm
